@@ -8,7 +8,7 @@
 
 ### I'm currently learning flutter 🦋
 
-## Tech Stack:
+## Tech Stack 💻:
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -35,8 +35,11 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>  
 
+## How to reach me 📫: <a href="mailto:zendotpy@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrackheadRetard&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrackheadRetard&layout=compact)</a>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=f4d8d1ad4946&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
