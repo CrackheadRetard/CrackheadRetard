@@ -35,7 +35,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>  
 
-## How to reach me 📫: <a href="mailto:zendotpy@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+## How to reach me 📫: <a href="mailto:zendotpy@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="https://www.instagram.com/kanyeenjoyer">![Instagram](https://img.shields.io/badge/KanyeEnjoyer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
 ## Top Languages
