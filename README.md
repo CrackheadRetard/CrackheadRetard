@@ -23,4 +23,8 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 </p>  
 
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retardcrackhead&layout=compact)
+
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=f4d8d1ad4946&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
