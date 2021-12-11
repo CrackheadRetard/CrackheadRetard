@@ -2,11 +2,9 @@
 
 ### I'm Jonathan 👋
 
-### WEB3/Blockchain developer, full stack. 👍
+### WEB3/Blockchain, full-stack. 👍
 
 ### I'm from the beautiful country Norway 🇳🇴
-
-### I'm currently learning flutter 🦋
 
 ## Tech Stack 💻:
 
