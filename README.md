@@ -1,10 +1,6 @@
 #### Hi there 👋
 
-### I'm Jonathan 👋
-
 ### WEB3/Blockchain, full-stack. 👍
-
-### I'm from the beautiful country Norway 🇳🇴
 
 ## Tech Stack 💻:
 
