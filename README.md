@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-### WEB3/Blockchain, full-stack. 👍
+### full-stack. 👍
 
 ## Tech Stack 💻:
 
@@ -30,7 +30,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>  
 
-## How to reach me 📫: <a href="mailto:zendotpy@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="https://www.instagram.com/kanyeenjoyer">![Instagram](https://img.shields.io/badge/KanyeEnjoyer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://Signal.com">![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)</a> <a href="https://www.tiktok.com/@z3nxy">![TikTok](https://img.shields.io/badge/Z3NXY-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a> <a href="https://twitter.com/zenxdev">![Twitter](https://img.shields.io/badge/zenxdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+## How to reach me 📫: <a href="mailto:zendotpy@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="https://twitter.com/zenx0x2">![Twitter](https://img.shields.io/badge/zenxdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/482795958271475712?theme=dark&bg=0a0a0a&idleMessage=Bored)](https://discord.com/users/482795958271475712)
